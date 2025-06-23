@@ -70,7 +70,5 @@ public class Sistema {
         double media = soma / alunos.size();
         System.out.printf("Média geral das notas: %.2f%n", media);
     }
-    private void maiorNota(){
-
-    }
+    
 }
